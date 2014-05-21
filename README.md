@@ -1,4 +1,5 @@
 mastercoder2014
 ===============
 
-My solutions
+My submitions for Mastercoder2014
+
