@@ -7,11 +7,8 @@
 #include <stdexcept>
 
 #include <string.h>
-#include <fstream>
 #include <sstream>
-#include <list>
 #include <vector>
-#include <istream>
 
 using namespace std;
 
@@ -143,8 +140,6 @@ float calc(string inStr)
 	}
 	return nums[0];
 }
-
-
 
 int main(int argc, char *argv[])
 {
