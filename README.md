@@ -1,7 +1,9 @@
 mastercoder2014
 ===============
 
-My submissions for MasterCoder2014 (http:://www.mastercoder.pl)
+My submissions for MasterCoder2014 (http://www.mastercoder.pl)<br/>
+Original descriptions available at: http://www.mastercoder.pl/tasks.php<br/>
+Mirror: http://hasherezade.net/contest/mastercoder_doc.zip<br/>
 
 Tasks list:
 + <b>task2</b> : 
