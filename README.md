@@ -11,7 +11,7 @@ Tasks list:
   + type: refactoring
   + description: find the appropriate design pattern and refactor given code
   + got score: 33/150
-+ <b>task2</b> : "Zlecenie dla NASA" ("An order from NASA")
++ <b>task3</b> : "Zlecenie dla NASA" ("An order from NASA")
   + type: algo
   + description: any-base calculator
   + got score: 175/220
